@@ -1,0 +1,158 @@
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\API activos.dll.config
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\API activos.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\API activos.pdb
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\roslyn\csc.exe
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\roslyn\csc.exe.config
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\roslyn\csc.rsp
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\roslyn\csi.exe
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\roslyn\csi.exe.config
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\roslyn\csi.rsp
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\roslyn\System.Buffers.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\roslyn\System.Memory.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\roslyn\vbc.exe
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\roslyn\vbc.exe.config
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\roslyn\vbc.rsp
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\roslyn\VBCSCompiler.exe
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\Newtonsoft.Json.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\Npgsql.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\System.Buffers.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\System.Collections.Immutable.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\System.Memory.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\System.Net.Http.Formatting.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\System.Numerics.Vectors.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\System.Text.Encodings.Web.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\System.Text.Json.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\System.Threading.Channels.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\System.ValueTuple.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\System.Web.Http.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\System.Web.Http.WebHost.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\Newtonsoft.Json.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\Npgsql.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\System.Buffers.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\System.Collections.Immutable.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\System.Memory.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\System.Numerics.Vectors.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\System.Text.Encodings.Web.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\System.Text.Json.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\System.Threading.Channels.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\System.ValueTuple.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\System.Net.Http.Formatting.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\System.Web.Http.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\System.Web.Http.WebHost.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\es\System.Web.Http.resources.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\obj\Debug\API activos.csproj.AssemblyReference.cache
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\obj\Debug\API activos.csproj.CoreCompileInputs.cache
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\obj\Debug\API activos.csproj.CopyComplete
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\obj\Debug\API activos.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\obj\Debug\API activos.pdb
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\API activos.dll.config
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\API activos.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\API activos.pdb
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\roslyn\csc.exe
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\roslyn\csc.exe.config
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\roslyn\csc.rsp
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\roslyn\csi.exe
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\roslyn\csi.exe.config
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\roslyn\csi.rsp
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\roslyn\System.Buffers.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\roslyn\System.Memory.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\roslyn\vbc.exe
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\roslyn\vbc.exe.config
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\roslyn\vbc.rsp
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\roslyn\VBCSCompiler.exe
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\Newtonsoft.Json.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\Npgsql.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\System.Buffers.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\System.Collections.Immutable.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\System.Memory.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\System.Net.Http.Formatting.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\System.Numerics.Vectors.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\System.Text.Encodings.Web.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\System.Text.Json.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\System.Threading.Channels.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\System.ValueTuple.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\System.Web.Http.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\System.Web.Http.WebHost.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\Newtonsoft.Json.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\Npgsql.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\System.Buffers.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\System.Collections.Immutable.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\System.Memory.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\System.Numerics.Vectors.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\System.Text.Encodings.Web.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\System.Text.Json.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\System.Threading.Channels.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\System.ValueTuple.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\System.Net.Http.Formatting.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\System.Web.Http.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\System.Web.Http.WebHost.xml
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\es\System.Web.Http.resources.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\obj\Debug\API activos.csproj.AssemblyReference.cache
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\obj\Debug\API activos.csproj.CoreCompileInputs.cache
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\obj\Debug\API activos.csproj.CopyComplete
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\obj\Debug\API activos.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\obj\Debug\API activos.pdb
