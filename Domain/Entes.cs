@@ -55,5 +55,37 @@ namespace API_activos.Domain
                 throw ex;
             }
         }
+
+        public DataTable BuscarEnte(int id)
+        {
+            try
+            {
+                DataTable dt = new DataTable();
+                string sql = "SELECT id, clase,nombre,ciudad" +
+                    " FROM public.entes where id=@id";
+                using (NpgsqlConnection conn = new NpgsqlConnection(ConfigurationManager.AppSettings.Get("CadenaConexion")))
+                {
+                    using (NpgsqlCommand cmd = new NpgsqlCommand(sql))
+                    {
+                        using (NpgsqlDataAdapter sda = new NpgsqlDataAdapter())
+                        {
+                            cmd.CommandType = CommandType.Text;
+                            cmd.CommandTimeout = 120;
+                            cmd.Connection = conn;
+                            cmd.Parameters.Clear();
+                            cmd.Parameters.AddWithValue("@id", id);
+                            sda.SelectCommand = cmd;
+                            sda.Fill(dt);
+                        }
+                    }
+                }
+
+                return dt;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
     }
 }

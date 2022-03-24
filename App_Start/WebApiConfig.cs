@@ -49,6 +49,27 @@ namespace API_activos
                 routeTemplate: "entes/listar"
             );
 
+            config.Routes.MapHttpRoute(
+                name: "Asignar activo",
+                routeTemplate: "entes/asignar"
+            );
+
+            config.Routes.MapHttpRoute(
+                name: "Buscar por asignado",
+                routeTemplate: "activos/buscar-asignado/{id}",
+                defaults: new { controller = "BuscarAsignado", id = RouteParameter.Optional }
+            );
+
+            // Set Swagger as default start page
+
+            config.Routes.MapHttpRoute(
+                name: "swagger_root",
+                routeTemplate: "",
+                defaults: null,
+                constraints: null,
+                handler: new Swashbuckle.Application.RedirectHandler((message => message.RequestUri.ToString()), "swagger"));
+            
+
             config.Formatters.JsonFormatter.SupportedMediaTypes.Add(new MediaTypeHeaderValue("text/html"));
         }
     }

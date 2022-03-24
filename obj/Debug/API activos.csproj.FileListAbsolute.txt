@@ -156,3 +156,6 @@ C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activ
 C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\obj\Debug\API activos.csproj.CopyComplete
 C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\obj\Debug\API activos.dll
 C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\Activos fijos git\activos_fijos\obj\Debug\API activos.pdb
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\Swashbuckle.Core.dll
+C:\Users\lcdonadoa\Documents\Visual Studio 2019\Projects\API activos\bin\WebActivatorEx.dll

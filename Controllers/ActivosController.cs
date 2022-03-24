@@ -74,10 +74,10 @@ namespace API_activos.Controllers
                 if (dt.Rows.Count > 0)
                 {
                     return Request.CreateResponse(dt);
-                }// Fin del if.
+                }
                 else
                 {
-                    return Request.CreateErrorResponse(HttpStatusCode.NotFound, "No hay activos para listar"); // Se retorna un mensaje de error.
+                    return Request.CreateErrorResponse(HttpStatusCode.NotFound, "No hay activos para listar"); 
                 }
             }
             catch (Exception ex)
@@ -92,6 +92,10 @@ namespace API_activos.Controllers
         {
             try
             {
+                if (!ModelState.IsValid)
+                {
+                    return BadRequest("Error en la petición");
+                }
                 var formats = new[] { "yyyy-M-d", "yyyy-M-dd", "yyyy-MM-d", "yyyy-MM-dd" };
                 DateTime fecha_compra;
                 if (DateTime.TryParseExact(fecha.fecha, formats, null, DateTimeStyles.None, out fecha_compra))
@@ -203,7 +207,7 @@ namespace API_activos.Controllers
                 {
                     Activos activo = new Activos();
                     DataTable dt = activo.BuscarActivosSerial(activo_actualiza.serial);
-                   
+
                     if (dt.Rows.Count == 0)
                     {
                         return BadRequest("El serial no existe");
@@ -217,14 +221,14 @@ namespace API_activos.Controllers
                         return BadRequest("El serial que intenta cambiar ya existe");
                     }
 
-                    
+
 
                     if (activo.fecha_compra > activo_actualiza.fecha_baja && activo_actualiza.fecha_baja > new DateTime(1960, 1, 1))
                     {
                         return BadRequest("La fecha de compra no puede ser mayor a la fecha de baja");
                     }
 
-                    string resultado=activo_actualiza.Actualizar();
+                    string resultado = activo_actualiza.Actualizar();
 
                     return Ok(resultado);
                 }
@@ -260,6 +264,81 @@ namespace API_activos.Controllers
                 else
                 {
                     return Request.CreateErrorResponse(HttpStatusCode.NotFound, "No hay areas o personas para listar"); // Se retorna un mensaje de error.
+                }
+            }
+            catch (Exception ex)
+            {
+                return Request.CreateErrorResponse(HttpStatusCode.InternalServerError, ex.Message);
+            }
+        }
+
+        [Route("~/entes/asignar")]
+        [HttpPost]
+        public IHttpActionResult AsignarActivo([FromBody] Asignar asignar)
+        {
+            try
+            {
+                if (ModelState.IsValid)
+                {
+                    Activos activo = new Activos();
+                    DataTable dt = activo.BuscarActivosSerial(asignar.serial);
+
+                    if (dt.Rows.Count == 0)
+                    {
+                        return BadRequest("El serial no existe");
+                    }
+
+                    if (asignar.BuscarAsignacion() && asignar.ente > 0)
+                    {
+                        return BadRequest("El serial ya esta asignado, primero desasignelo con el valor de ente en '0'");
+                    }
+
+                    Entes ente = new Entes();
+                    dt = ente.BuscarEnte(asignar.ente);
+                    if (dt.Rows.Count == 0 && asignar.ente > 0)
+                    {
+                        return BadRequest("El área o persona a quien quiere asignar el activo no existe");
+                    }
+
+
+
+                    string resultado = asignar.AsignarActivo();
+
+                    return Ok(resultado);
+                }
+                else
+                {
+                    string message = string.Join(" | ", ModelState.Values
+                        .SelectMany(v => v.Errors)
+                        .Select(e => e.Exception.Message));
+                    return BadRequest(message);
+
+                }
+            }
+            catch (Exception ex)
+            {
+                //return Request.CreateErrorResponse(HttpStatusCode.InternalServerError, ex.Message);
+                return InternalServerError(ex);
+            }
+        }
+
+        //
+        [Route("~/activos/buscar-asignado/{id}")]
+        [HttpGet]
+        public HttpResponseMessage BuscarAsignados(int id)
+        {
+            try
+            {
+                Activos activos = new Activos();
+                DataTable dt = activos.BuscarActivosAsignados(id);
+
+                if (dt.Rows.Count > 0)
+                {
+                    return Request.CreateResponse(dt);
+                }
+                else
+                {
+                    return Request.CreateErrorResponse(HttpStatusCode.NotFound, "No hay activos para listar");
                 }
             }
             catch (Exception ex)

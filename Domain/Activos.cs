@@ -389,6 +389,51 @@ namespace API_activos.Domain
             }
 
         }
+        public DataTable BuscarActivosAsignados(int id)
+        {
+            try
+            {
+                DataTable dt = new DataTable();
+                string sql = " SELECT nombre" +
+                    " 	,descripcion" +
+                    " 	,tipo" +
+                    " 	,a.serial" +
+                    " 	,num_inventario" +
+                    " 	,peso" +
+                    " 	,alto" +
+                    " 	,ancho" +
+                    " 	,largo" +
+                    " 	,valor" +
+                    " 	,fecha_compra" +
+                    " 	,fecha_baja" +
+                    " 	,estado" +
+                    " 	,color" +
+                    " FROM PUBLIC.activos a" +
+                    " inner join asignacion b on a.serial=b.serial" + 
+                    " where b.id=@id;";
+                using (NpgsqlConnection conn = new NpgsqlConnection(ConfigurationManager.AppSettings.Get("CadenaConexion")))
+                {
+                    using (NpgsqlCommand cmd = new NpgsqlCommand(sql))
+                    {
+                        using (NpgsqlDataAdapter sda = new NpgsqlDataAdapter())
+                        {
+                            cmd.CommandType = CommandType.Text;
+                            cmd.CommandTimeout = 120;
+                            cmd.Connection = conn;
+                            cmd.Parameters.Clear();
+                            cmd.Parameters.AddWithValue("@id", id);
+                            sda.SelectCommand = cmd;
+                            sda.Fill(dt);
+                        }
+                    }
+                }
 
+                return dt;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
     }
 }
